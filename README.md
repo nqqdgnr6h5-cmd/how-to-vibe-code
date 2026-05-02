@@ -86,7 +86,7 @@ The AI is very capable but has no context about your project unless you give it.
 
 Pure vibe is fine for a weekend. But if you want to grow as an engineer, circle back. After a session, skim what the AI wrote. Ask it to explain any line you don't understand. This is how you level up while shipping.
 
-### Keep Your Sense of Smell
+### Keep Your Sense of Smell  (smell is very much needed)
 
 Even if you don't read every line, develop instincts for when something is *off*. Clues:
 - The AI adds dependencies you've never heard of
